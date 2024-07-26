@@ -4,8 +4,7 @@
 
 * Retrouvez le mot de passe utilisé pour s’authentifier sur l’infrastructure SIP.
 
-[Uploading Challenges_Réseau SIP - Authentification[InternetShortcut]
-URL=https://www.root-me.org/fr/Challenges/Reseau/SIP-Authentification
+https://www.root-me.org/fr/Challenges/Reseau/SIP-Authentification
 
 ## Conclusion
 
