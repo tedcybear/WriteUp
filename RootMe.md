@@ -4,7 +4,7 @@
 
 * Retrouvez le mot de passe utilisé pour s’authentifier sur l’infrastructure SIP.
 
-[Fichier fourni](../../../Downloads/ch4.txt)
+[Lien]([../../../Downloads/ch4.txt](https://www.root-me.org/fr/Challenges/Reseau/SIP-Authentification))
 
 ## Conclusion
 
